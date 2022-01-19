@@ -7,4 +7,4 @@ The `words.csv` file contains a list of all acceptable Wordle plays as of Januar
 
 Play the official Wordle game at https://www.powerlanguage.co.uk/wordle/
 
-TL;DR: `AROSE` is probably the best first play in Wordle and will net you on average nearly 2 yellow (or green) tiles.s
+TL;DR: `AROSE` is probably the best first play in Wordle and it will net you on average nearly 2 yellow (or green) tiles.
